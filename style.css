@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+}
+
+li img {
+    max-width: 100px;
+    height: auto;
+}
+
+#recipes {
+    font-size: 24px;
+    text-align: center;
+}
+a, a:visited{
+    color: black;
+}
+h1, h3 {
+    text-align: center;
+}
+.description {
+    background-color: #807362;
+}
+.ingredients {
+    color: rgb(49, 82, 0);
+}
+.steps {
+    background-color: black;
+    color: blanchedalmond;
+}
